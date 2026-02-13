@@ -1,4 +1,4 @@
 {
-  "rollback":true,
+  "rollback":FALSE,
   "target_version": "V1.1"
 }
