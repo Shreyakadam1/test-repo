@@ -1,0 +1,17 @@
+{
+    "Version": {
+        "V": "V1.1"
+    },
+    "Device": {
+        "Name": "ESP32_Device",
+        "ID": "ESP001"
+    },
+    "Wifi": {
+        "SSID": "SM-0CA5-5-4G",
+        "Password": "05022026-5"
+    },
+    "Settings": {
+        "Interval_Min": 30,
+        "Log_Enable": true
+    }
+}
