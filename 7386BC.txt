@@ -13,7 +13,7 @@
   ],
 
   "deviceid": {
-    "id": "D01"
+    "id": "D04"
   },
 
   "mqtt": {
@@ -28,7 +28,7 @@
   },
 
    "jsonfileversion": {
-    "v": "V1.3"
+    "v": "V1.4"
   },
 
   "delay":{
